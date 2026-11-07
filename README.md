@@ -2,8 +2,6 @@
 
 # 🚀 Shivam Kumar – Personal Portfolio
 
-A modern, responsive and interactive personal portfolio showcasing my skills, projects, achievements, and journey as a frontend developer.
-
 ## ✨ Features
 - Modern UI with 3D immersive design
 - Black & Electric Blue theme
