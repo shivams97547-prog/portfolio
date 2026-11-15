@@ -21,6 +21,8 @@ I'm Shivam Kumar, a B.Tech CSE (IoT) student passionate about web development, t
 
 ---
 
+⭐ If you like this project, don't forget to give it a star!
+
 
 
 
